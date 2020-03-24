@@ -6,13 +6,13 @@ In August 2019,
 as the third round of interview for interns, 
 I had a half-hour telephone interview with Meng Qu. 
 In the conversation, 
-I knew that she majors in software engineering at UESTC and indeed she has a solid foundation in this field. 
+I discovered that she majors in software engineering at UESTC and indeed has a solid foundation in this field. 
 Combined with Meng Qu's good communication skills, I decided to hire her.
 
 Meng Qu joined my team in November 2019. 
 So far, 
-she has been doing the web scene of IM（our main project that is an instant messaging tool https://cloud.tencent.com/product/im）. 
-I found that she can quickly start the project, which may be related to her previous internship experience in other companies. 
+she has been working on the web scene of IM (our main project is an instant messaging tool https://cloud.tencent.com/product/im). 
+I found that she can quickly start on projects that may be related to her previous internship experience in other companies. 
 She can precisely grasp the difficulties and core of the project. 
 In the first two weeks, 
 she quickly solved an issue raised by a client in one day: 
@@ -31,11 +31,11 @@ she has a strong ability of self-study and likes thinking.
 It can be seen from her daily report that she has learnt new knowledge from her colleagues or projects every day. 
 She would like to find all resources to learn. 
 If there is a problem, 
-she will ask questions after thinking and practicing and she will not disturb others' progress frequently. 
+she will ask questions after thinking and practicing so she does not disturb others' progress frequently. 
 Second, 
 she is a very serious and positive person. 
 I told her before that she must think about the architecture before any project development, 
-so as not to cause many problems, and the project can also stably iterate. 
+so as not to cause many problems and so the project can stably iterate. 
 She did it very well. 
 After receiving the assignment, 
 she can read the previous code logic firstly and then conceive the code architecture by herself. 
@@ -48,13 +48,13 @@ Finally,
 she is used to summarizing and sharing. 
 During the first month of her employment, 
 I found that she had already published two technical summaries on the company's internal communication platform, 
-which are all summarizing during her work. 
+that are all summarizing during her work. 
 In a later group sharing meeting, she explained her own summary for everyone.
 
 I am very optimistic about this kind of energetic and thoughtful young girl. 
-When she came to work in my team, she contributed her own strength to the team, 
-and every member of the team trust her as a right-hand assistant. 
-I hope that she can keep her present condition, develop her potential in the future school and become an excellent engineer. 
+When she came to work in my team, she contributed her own strength to the team. 
+Every member of the team trusts her as a right-hand assistant. 
+I hope that she can keep her present condition, develop her potential in the future school, and become an excellent engineer. 
 If you have any questions regarding her or this recommendation, 
 please contact me.
 
